@@ -5,6 +5,14 @@ const app = express();
 // Middleware to parse JSON bodies
 app.use(express.json());
 
+// Middleware to validate request
+app.use((req, res, next) => {
+  if (!req.body.developers || !Array.isArray(req.body.developers)) {
+    return res.status(400).json({ error: "Invalid input, expected an array of developers" });
+  }
+  next();
+});
+
 // Helper function to get developer info from GitHub
 async function getDeveloperInfo(username) {
   try {
@@ -24,7 +32,7 @@ app.post("/", async (req, res, next) => {
     const developerPromises = req.body.developers.map(getDeveloperInfo);
     const results = await Promise.all(developerPromises);
     return res.json(results);
-  } catch {
+  } catch (err) {
     next(err);
   }
 });
@@ -36,6 +44,7 @@ app.use((err, req, res, next) => {
 });
 
 // Start the server
-app.listen(3000, () => {
-  console.log("Server is running");
+const port = process.env.PORT || 3000;
+app.listen(port, () => {
+  console.log(`Server is running on port ${port}`);
 });

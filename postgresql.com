@@ -12,7 +12,7 @@
   <meta property="og:url" content="https://www.postgresql.org/" />
   <meta property="og:type" content="article" />
   <meta property="article:author" content="PostgreSQL Global Development Group" />
-  <meta property="article:published_time" content="2024-08-19T23:33:32.545349" />
+  <meta property="article:published_time" content="2024-08-21T19:04:45.637481" />
   <meta property="og:image" content="https://www.postgresql.org/media/img/about/press/elephant.png" />
   <meta property="og:title" content="PostgreSQL" />
   <meta property="og:description" content="The world&#x27;s most advanced open source database." />
@@ -209,17 +209,24 @@
               
                 <img src="/media/img/PostgreSQL_Badge1.svg" class="community" alt="PostgreSQL Community Event">
               
-              2024-09-30 &ndash; 2024-10-02 &middot; <a href="/about/event/pgconf-nyc-2024-2492/">PGConf NYC 2024</a>
+              2024-09-17 &middot; <a href="/about/event/pg-bootcamp-russia-2024-2510/">PG BootCamp Russia 2024</a>
             </li>
           
             <li class=" ">
               
                 <img src="/media/img/PostgreSQL_Badge1.svg" class="community" alt="PostgreSQL Community Event">
               
-              2024-10-20 &middot; <a href="/about/event/pgday-israel-2024-2503/">PGDay Israel 2024</a>
+              2024-09-30 &ndash; 2024-10-02 &middot; <a href="/about/event/pgconf-nyc-2024-2492/">PGConf NYC 2024</a>
             </li>
           
             <li class="pg-bg-gray ">
+              
+                <img src="/media/img/PostgreSQL_Badge1.svg" class="community" alt="PostgreSQL Community Event">
+              
+              2024-10-20 &middot; <a href="/about/event/pgday-israel-2024-2503/">PGDay Israel 2024</a>
+            </li>
+          
+            <li class=" ">
               
                 <img src="/media/img/PostgreSQL_Badge1.svg" class="community" alt="PostgreSQL Community Event">
               
@@ -377,6 +384,36 @@
       
         <div class="col-md-4">
           <div class="text-center">
+            <h3><a href="https://postgr.es/p/6BX"> Authentication monitoring in PostgreSQL</a></h3>
+            <ul class="meta">
+              <li><i class="far fa-comments"></i>&nbsp;Rafia Sabih</li>
+              <li><i class="far fa-clock"></i>&nbsp;2024-08-20</li>
+            </ul>
+          </div>
+        </div>
+      
+        <div class="col-md-4">
+          <div class="text-center">
+            <h3><a href="https://postgr.es/p/6BY"> PostgreSQL Internals Part 4: A Beginner’s Guide to Understanding WAL in PostgreSQL</a></h3>
+            <ul class="meta">
+              <li><i class="far fa-comments"></i>&nbsp;semab tariq</li>
+              <li><i class="far fa-clock"></i>&nbsp;2024-08-20</li>
+            </ul>
+          </div>
+        </div>
+      
+        <div class="col-md-4">
+          <div class="text-center">
+            <h3><a href="https://postgr.es/p/6BW"> How to pick the first patch?</a></h3>
+            <ul class="meta">
+              <li><i class="far fa-comments"></i>&nbsp;Tomas Vondra</li>
+              <li><i class="far fa-clock"></i>&nbsp;2024-08-20</li>
+            </ul>
+          </div>
+        </div>
+      
+        <div class="col-md-4">
+          <div class="text-center">
             <h3><a href="https://postgr.es/p/6BR"> Postgres query re-optimisation in practice</a></h3>
             <ul class="meta">
               <li><i class="far fa-comments"></i>&nbsp;Andrei Lepikhov</li>
@@ -431,36 +468,6 @@
             <ul class="meta">
               <li><i class="far fa-comments"></i>&nbsp;Gabriele Bartolini</li>
               <li><i class="far fa-clock"></i>&nbsp;2024-08-16</li>
-            </ul>
-          </div>
-        </div>
-      
-        <div class="col-md-4">
-          <div class="text-center">
-            <h3><a href="https://postgr.es/p/6BH"> CloudNativePG Recipe 10 - Simulating Production PostgreSQL on Kubernetes with Ki</a></h3>
-            <ul class="meta">
-              <li><i class="far fa-comments"></i>&nbsp;Gabriele Bartolini</li>
-              <li><i class="far fa-clock"></i>&nbsp;2024-08-14</li>
-            </ul>
-          </div>
-        </div>
-      
-        <div class="col-md-4">
-          <div class="text-center">
-            <h3><a href="https://postgr.es/p/6BF"> Remote Sinks in pgwatch3 by Akshat Jaimini</a></h3>
-            <ul class="meta">
-              <li><i class="far fa-comments"></i>&nbsp;Pavlo Golub</li>
-              <li><i class="far fa-clock"></i>&nbsp;2024-08-13</li>
-            </ul>
-          </div>
-        </div>
-      
-        <div class="col-md-4">
-          <div class="text-center">
-            <h3><a href="https://postgr.es/p/6BG"> Will Postgres development rely on mailing lists forever?</a></h3>
-            <ul class="meta">
-              <li><i class="far fa-comments"></i>&nbsp;Tomas Vondra</li>
-              <li><i class="far fa-clock"></i>&nbsp;2024-08-13</li>
             </ul>
           </div>
         </div>

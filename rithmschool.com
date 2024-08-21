@@ -79,7 +79,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
 <link rel='stylesheet' id='contact-form-7-css' href='https://www.rithmschool.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7' media='all' />
-<link rel='stylesheet' id='rithm-style-css' href='https://www.rithmschool.com/wp-content/themes/rithm/style.css?ver=1724110053' media='all' />
+<link rel='stylesheet' id='rithm-style-css' href='https://www.rithmschool.com/wp-content/themes/rithm/style.css?ver=1724267218' media='all' />
 <link rel='stylesheet' id='jet-popup-frontend-css' href='https://www.rithmschool.com/wp-content/plugins/jet-popup/assets/css/jet-popup-frontend.css?ver=2.0.0' media='all' />
 <link rel='stylesheet' id='jet-elements-css' href='https://www.rithmschool.com/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.6.12' media='all' />
 <link rel='stylesheet' id='jet-elements-skin-css' href='https://www.rithmschool.com/wp-content/plugins/jet-elements/assets/css/jet-elements-skin.css?ver=2.6.12' media='all' />
@@ -1292,7 +1292,7 @@ var extcf7_conditional_settings = {"animitation_status":"on","animitation_in_tim
 var extcf7_redirection_settings = {"redirection_delay":"200"};
 </script>
 <script src="https://www.rithmschool.com/wp-content/plugins/extensions-for-cf7/assets/js/redirect.js?ver=3.0.1" id="extcf7-redirect-script-js"></script>
-<script src="https://www.rithmschool.com/wp-content/themes/rithm/script.js?ver=1724110053" id="rithm-script-js"></script>
+<script src="https://www.rithmschool.com/wp-content/themes/rithm/script.js?ver=1724267218" id="rithm-script-js"></script>
 <script src="https://www.rithmschool.com/wp-content/plugins/jet-engine/assets/lib/jet-plugins/jet-plugins.js?ver=1.1.0" id="jet-plugins-js"></script>
 <script src="https://www.rithmschool.com/wp-content/plugins/jet-elements/assets/js/lib/anime-js/anime.min.js?ver=2.2.0" id="jet-anime-js-js"></script>
 <script src="https://www.rithmschool.com/wp-content/plugins/jet-popup/assets/js/lib/waypoints/jquery.waypoints.min.js?ver=2.0.2" id="jet-waypoints-js-js"></script>
@@ -1320,14 +1320,14 @@ var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"64d8f4f1
 <script src="https://www.rithmschool.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1" id="smartmenus-js"></script>
 <script src="https://www.rithmschool.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1" id="jquery-numerator-js"></script>
 <script id="jet-engine-frontend-js-extra">
-var JetEngineSettings = {"ajaxurl":"https:\/\/www.rithmschool.com\/wp-admin\/admin-ajax.php","ajaxlisting":"https:\/\/www.rithmschool.com\/?nocache=1724110055","restNonce":"7113f8a237","hoverActionTimeout":"400"};
+var JetEngineSettings = {"ajaxurl":"https:\/\/www.rithmschool.com\/wp-admin\/admin-ajax.php","ajaxlisting":"https:\/\/www.rithmschool.com\/?nocache=1724267220","restNonce":"80ce28fab9","hoverActionTimeout":"400"};
 </script>
 <script src="https://www.rithmschool.com/wp-content/plugins/jet-engine/assets/js/frontend.js?ver=3.2.3.1" id="jet-engine-frontend-js"></script>
 <script src="https://www.rithmschool.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.15.0" id="elementor-pro-webpack-runtime-js"></script>
 <script src="https://www.rithmschool.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.15.1" id="elementor-webpack-runtime-js"></script>
 <script src="https://www.rithmschool.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.15.1" id="elementor-frontend-modules-js"></script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.rithmschool.com\/wp-admin\/admin-ajax.php","nonce":"d83e58f5f1","urls":{"assets":"https:\/\/www.rithmschool.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.rithmschool.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.rithmschool.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.rithmschool.com\/wp-admin\/admin-ajax.php","nonce":"74412e58b1","urls":{"assets":"https:\/\/www.rithmschool.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.rithmschool.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.rithmschool.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src="https://www.rithmschool.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.15.0" id="elementor-pro-frontend-js"></script>
 <script src="https://www.rithmschool.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
